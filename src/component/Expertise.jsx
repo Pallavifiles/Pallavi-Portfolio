@@ -1,4 +1,5 @@
 import React from "react"
+import globe from "../assets/globe.png";
 
 function Expertise() {
   return (
@@ -10,7 +11,7 @@ function Expertise() {
     <div>
 
       <img
-        src="/src/assets/globe.png"
+        src={globe}
         alt="globe"
         className="rounded-3xl w-full object-cover"
       />

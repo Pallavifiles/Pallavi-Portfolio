@@ -29,7 +29,7 @@ function Services() {
   <section className="bg-gray-100 py-16 md:py-24 px-5 md:px-10 lg:px-20">
 
   {/* Heading */}
-  <div className="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-8 mb-16">
+  <div className="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-8 mb-16 text-start">
 
     <div>
 

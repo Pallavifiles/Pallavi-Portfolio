@@ -1,11 +1,11 @@
 import React from "react"
-
+import HeroBg from "../assets/Hero.png";
 function Hero() {
   return (
  <section
   className="min-h-screen bg-cover bg-center flex items-center px-5 md:px-10 lg:px-20 py-20"
   style={{
-    backgroundImage: "url('/src/assets/Hero.png')",
+     backgroundImage: `url(${HeroBg})`,
   }}
 >
 
